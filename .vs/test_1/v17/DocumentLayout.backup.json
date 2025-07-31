@@ -1,0 +1,112 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\linhtalinhtinh\\BT\\ASPNet\\test_1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1510AD1D-3170-4E6D-B68F-07C76E00F9F7}|test_1.csproj|e:\\linhtalinhtinh\\bt\\aspnet\\test_1\\controllers\\authorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1510AD1D-3170-4E6D-B68F-07C76E00F9F7}|test_1.csproj|solutionrelative:controllers\\authorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1510AD1D-3170-4E6D-B68F-07C76E00F9F7}|test_1.csproj|e:\\linhtalinhtinh\\bt\\aspnet\\test_1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1510AD1D-3170-4E6D-B68F-07C76E00F9F7}|test_1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1510AD1D-3170-4E6D-B68F-07C76E00F9F7}|test_1.csproj|e:\\linhtalinhtinh\\bt\\aspnet\\test_1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1510AD1D-3170-4E6D-B68F-07C76E00F9F7}|test_1.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1510AD1D-3170-4E6D-B68F-07C76E00F9F7}|test_1.csproj|e:\\linhtalinhtinh\\bt\\aspnet\\test_1\\data\\test1context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1510AD1D-3170-4E6D-B68F-07C76E00F9F7}|test_1.csproj|solutionrelative:data\\test1context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AuthorsController.cs",
+              "DocumentMoniker": "E:\\linhtalinhtinh\\BT\\ASPNet\\test_1\\Controllers\\AuthorsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AuthorsController.cs",
+              "ToolTip": "E:\\linhtalinhtinh\\BT\\ASPNet\\test_1\\Controllers\\AuthorsController.cs",
+              "RelativeToolTip": "Controllers\\AuthorsController.cs",
+              "ViewState": "AgIAAJQAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T15:09:48.49Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\linhtalinhtinh\\BT\\ASPNet\\test_1\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "E:\\linhtalinhtinh\\BT\\ASPNet\\test_1\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T15:06:11.867Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\linhtalinhtinh\\BT\\ASPNet\\test_1\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "E:\\linhtalinhtinh\\BT\\ASPNet\\test_1\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAACWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-31T15:05:23.882Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Test1Context.cs",
+              "DocumentMoniker": "E:\\linhtalinhtinh\\BT\\ASPNet\\test_1\\Data\\Test1Context.cs",
+              "RelativeDocumentMoniker": "Data\\Test1Context.cs",
+              "ToolTip": "E:\\linhtalinhtinh\\BT\\ASPNet\\test_1\\Data\\Test1Context.cs",
+              "RelativeToolTip": "Data\\Test1Context.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAA7wBQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T15:04:43.133Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
