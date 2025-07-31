@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "CpW0PyFSDQ8=",
+  "dgSpecHash": "ap0gZsXKQLA=",
   "success": true,
-  "projectFilePath": "D:\\desktop copy\\ASP\\Giau\\test_git\\test_1.csproj",
+  "projectFilePath": "D:\\desktop copy\\ASP\\Giau\\test_git_2\\Little_Test\\test_1.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\DELL\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\DELL\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",
