@@ -1,17 +1,21 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "E:\\linhtalinhtinh\\BT\\ASPNet\\test_1\\",
+  "WorkspaceRootPath": "D:\\code\\test\\Little_Test\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1510AD1D-3170-4E6D-B68F-07C76E00F9F7}|test_1.csproj|e:\\linhtalinhtinh\\bt\\aspnet\\test_1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{1510AD1D-3170-4E6D-B68F-07C76E00F9F7}|test_1.csproj|d:\\code\\test\\little_test\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1510AD1D-3170-4E6D-B68F-07C76E00F9F7}|test_1.csproj|solutionrelative:controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1510AD1D-3170-4E6D-B68F-07C76E00F9F7}|test_1.csproj|d:\\code\\test\\little_test\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{1510AD1D-3170-4E6D-B68F-07C76E00F9F7}|test_1.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1510AD1D-3170-4E6D-B68F-07C76E00F9F7}|test_1.csproj|e:\\linhtalinhtinh\\bt\\aspnet\\test_1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1510AD1D-3170-4E6D-B68F-07C76E00F9F7}|test_1.csproj|d:\\code\\test\\little_test\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1510AD1D-3170-4E6D-B68F-07C76E00F9F7}|test_1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1510AD1D-3170-4E6D-B68F-07C76E00F9F7}|test_1.csproj|e:\\linhtalinhtinh\\bt\\aspnet\\test_1\\data\\test1context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1510AD1D-3170-4E6D-B68F-07C76E00F9F7}|test_1.csproj|d:\\code\\test\\little_test\\data\\test1context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1510AD1D-3170-4E6D-B68F-07C76E00F9F7}|test_1.csproj|solutionrelative:data\\test1context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -30,11 +34,15 @@
             },
             {
               "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
               "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
             },
             {
               "$type": "Bookmark",
@@ -50,24 +58,36 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "E:\\linhtalinhtinh\\BT\\ASPNet\\test_1\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "E:\\linhtalinhtinh\\BT\\ASPNet\\test_1\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "BooksController.cs",
+              "DocumentMoniker": "D:\\code\\test\\Little_Test\\Controllers\\BooksController.cs",
+              "RelativeDocumentMoniker": "Controllers\\BooksController.cs",
+              "ToolTip": "D:\\code\\test\\Little_Test\\Controllers\\BooksController.cs",
+              "RelativeToolTip": "Controllers\\BooksController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-31T15:06:11.867Z",
+              "WhenOpened": "2025-07-31T17:00:53.248Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\code\\test\\Little_Test\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\code\\test\\Little_Test\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T15:06:11.867Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "appsettings.json",
-              "DocumentMoniker": "E:\\linhtalinhtinh\\BT\\ASPNet\\test_1\\appsettings.json",
+              "DocumentMoniker": "D:\\code\\test\\Little_Test\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
-              "ToolTip": "E:\\linhtalinhtinh\\BT\\ASPNet\\test_1\\appsettings.json",
+              "ToolTip": "D:\\code\\test\\Little_Test\\appsettings.json",
               "RelativeToolTip": "appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
@@ -76,16 +96,41 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Test1Context.cs",
-              "DocumentMoniker": "E:\\linhtalinhtinh\\BT\\ASPNet\\test_1\\Data\\Test1Context.cs",
+              "DocumentMoniker": "D:\\code\\test\\Little_Test\\Data\\Test1Context.cs",
               "RelativeDocumentMoniker": "Data\\Test1Context.cs",
-              "ToolTip": "E:\\linhtalinhtinh\\BT\\ASPNet\\test_1\\Data\\Test1Context.cs",
+              "ToolTip": "D:\\code\\test\\Little_Test\\Data\\Test1Context.cs",
               "RelativeToolTip": "Data\\Test1Context.cs",
               "ViewState": "AgIAADQAAAAAAAAAAAAUwBUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-31T15:04:43.133Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-31T15:04:43.133Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 100,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:3:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:4:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{5a4e9529-b6a0-46b5-be4f-0f0b239bc0eb}"
             }
           ]
         }
